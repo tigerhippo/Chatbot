@@ -1,0 +1,14 @@
+User: hi
+Bot: Hi, I am LHS Info Bot. I am happy to answer your questions.
+User: boi
+Bot: Sorry, we don't have an answer for your question. Please try another question.
+User: course
+Bot: Did you mean to ask: what are the courses open to freshmen?
+Here is the answer: go to the lhs website -> about our school -> program of studies
+Does this answer your question? Please type Yes or No
+Or type reset to start over
+User: drama
+Bot: Did you mean to ask: what are the courses open to sophomores?
+Here is the answer: go to the lhs website -> about our school -> program of studies
+Does this answer your question? Please type Yes or No
+Or type reset to start over.

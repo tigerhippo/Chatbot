@@ -1,0 +1,40 @@
+This is the LHS InfoBot help guide.
+
+
+INSTRUCTIONS:
+
+To ASK the InfoBot a question, TYPE your question in the text box at the bottom of the graphical
+user interface that appears on the screen in front of you.
+ 
+THE QUESTION MUST BE LHS-RELATED. Provide your question as CONCISE as possible, using STANDARD, 
+
+GRAMMATICALLY CORRECT English. If your question DOES NOT receive an answer, try to REWORD it,
+ 
+ELIMINATE more COMPLEX words, and CHECK for all SPELLING or GRAMMAR MISTAKES. If you have NOT
+ 
+received an answer after several TRIES, try a DIFFERENT question. The InfoBot is trying to MIMIC 
+
+the way we speak English NORMALLY, so please enter questions using the words you would use when 
+
+having a CASUAL CONVERSATION with someone (DO NOT OVERCOMPLICATE OR OVERTHINK!). Try NOT to ask
+
+SUBJECTIVE questions.
+
+
+
+EXAMPLES of questions that will NOT receive an answer 
+(either out of the range of the InfoBot’s knowledge or will not be recognizable by the InfoBot):
+
+How do I get to the town center?  (Not LHS-related)
+
+Are the teachers good? (Subjective)
+
+Where are the languages? (Should say language building, not languages - not standard English)
+
+
+Note:
+Sometimes, you will get multiple potential matching answers for your question, the InfoBot will 
+try to give you one answer at a time, please provide Yes or No to let the InfoBot know if an 
+answer is correct or not. If you want to start over again, you can type in reset, so that you 
+don't need to go through multiple Yes or No steps. In this situation, if you type in other words
+the InfoBot will ignore them, until you type in either Yes/No or reset.
